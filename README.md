@@ -9,3 +9,4 @@ on a LCD display.
 * Potentiometer
 * 16x2 LCD
 * Jumper wires
+* Text editor/IDE - STM32 CubeIDE
