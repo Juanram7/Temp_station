@@ -12,4 +12,4 @@ on a LCD display.
 * Text editor/IDE - STM32 CubeIDE
 
 ## Circuit Wiring
-![Fritzing_img](media\DHT22_LCD_Project.png?raw=true)
+![Fritzing_img](media/DHT22_LCD_Project.png?raw=true)
