@@ -13,3 +13,5 @@ on a LCD display.
 
 ## Circuit Wiring
 ![Fritzing_img](media/DHT22_LCD_Project.png?raw=true)
+
+## Nucleo Configurations
