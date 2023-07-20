@@ -5,7 +5,7 @@ Header file for LCD -
 #ifndef LCD_H_
 #define LCD_H_
 
-// If using the nucleo F445RE then we need to include this
+// If using the nucleo F446RE then we need to include this
 #include "stm32f4xx_hal.h"
 
 #include "string.h"
