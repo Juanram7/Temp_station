@@ -32,3 +32,14 @@ on a LCD display.
 
 **Make sure to include the LCD header/source files**
 ![main](media/main.JPG?raw=true)
+
+## Coded needed in main.c
+**First Part**
+![First part](media/First_part.png?raw=true)<br>
+
+**Second Part**
+![Second part](media/Second_part.png?raw=true)<br>
+
+**Third Part**
+![Third part](media/Third_part.png?raw=true)<br>
+
